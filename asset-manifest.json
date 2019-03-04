@@ -1,0 +1,19 @@
+{
+  "main.css": "/static/css/main.b7a96a05.chunk.css",
+  "main.js": "/static/js/main.1185ede1.chunk.js",
+  "main.js.map": "/static/js/main.1185ede1.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.3a24ca05.chunk.js": "/static/js/2.3a24ca05.chunk.js",
+  "static/js/2.3a24ca05.chunk.js.map": "/static/js/2.3a24ca05.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.0ad3ec2d0adc733de75c5f7194e27da7.js": "/precache-manifest.0ad3ec2d0adc733de75c5f7194e27da7.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.b7a96a05.chunk.css.map": "/static/css/main.b7a96a05.chunk.css.map",
+  "static/media/Hamburger_menu.svg": "/static/media/Hamburger_menu.26b889a2.svg",
+  "static/media/App.scss": "/static/media/Nunito-SemiBold.713ac08d.ttf",
+  "static/media/action_supporter_icon.svg": "/static/media/action_supporter_icon.5bb2efa0.svg",
+  "static/media/homescreen_image_default.svg": "/static/media/homescreen_image_default.77b73a56.svg",
+  "static/media/image_default.svg": "/static/media/image_default.77b73a56.svg",
+  "static/media/sample_action.jpg": "/static/media/sample_action.58e0adc3.jpg"
+}
